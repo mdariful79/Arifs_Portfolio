@@ -107,13 +107,19 @@ nav ul li a:hover::after{
 .header-table{
     font-size: 30px;
 }
-/* .header-table .table .tr .td-left{
-    /* font-size: 60px; */
-    /* margin-top: 15px; */
-/*}*/
 .h{
     color:#ff004f;
 }
+.btn.btn2{
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    justify-content: center;
+    padding: 5px 20px;
+    
+}
+
+
 
 /*------------ About Me section ----------*/
 .about{
@@ -426,6 +432,7 @@ padding: 40px 80px;
 .btn.btn1{
     display: inline-block;
 }
+
 .contact-right form{
     width: 100%;
 }
